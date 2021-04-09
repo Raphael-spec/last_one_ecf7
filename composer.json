@@ -1,0 +1,13 @@
+{
+    "name": "94010-34-06/articles",
+    "authors": [
+        {
+            "name": "Raphael Doré",
+            "email": "raphael_dore@yahoo.fr"
+        }
+    ],
+    "require": {
+        "composer/composer": "^2.0",
+        "phpmailer/phpmailer": "^6.4"
+    }
+}
