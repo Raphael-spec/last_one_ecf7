@@ -5,7 +5,7 @@
 
 
 <!-- <div class="container">
-    <h2>Confirmation de commande</h2>
+    <h2>Confirmation de de de commande</h2>
     <p>Merci pour votre achat<p>
         
 </div>
